@@ -1,0 +1,1487 @@
+.landing-page-design-child {
+    position: absolute;
+    top: 134px;
+    left: calc(50% - 586px);
+    border-radius: 32px;
+    width: 1171px;
+    height: 550px;
+    object-fit: cover;
+  }
+  .p-ticket {
+    position: absolute;
+    top: 7px;
+    left: 0;
+    font-weight: 800;
+  }
+  .home {
+    position: relative;
+    font-weight: 500;
+  }
+  .home-parent {
+    position: absolute;
+    top: 8px;
+    left: 370px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 0 56px;
+    font-size: 18px;
+    color: rgba(3, 7, 18, 0.7);
+  }
+  .bus,
+  .bus-icon {
+    position: relative;
+  }
+  .bus-icon {
+    width: 24px;
+    height: 24px;
+  }
+  .bus-parent {
+    position: absolute;
+    top: 0;
+    left: 1043px;
+    border-radius: 12px;
+    background-color: rgba(29, 209, 0, 0.1);
+    border: 1px solid rgba(29, 209, 0, 0.4);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 30px;
+    gap: 0 10px;
+    font-size: 20px;
+    color: #1dd100;
+  }
+  .p-ticket-parent {
+    position: absolute;
+    top: 48px;
+    left: 133px;
+    width: 1173px;
+    height: 56px;
+    text-align: center;
+    font-size: 36px;
+    color: #030712;
+    font-family: Raleway;
+  }
+  .buy-tickets-wrapper {
+    position: absolute;
+    top: 280px;
+    left: calc(50% - 85px);
+    border-radius: 12px;
+    background-color: #1dd100;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 21px 30px;
+  }
+  .p-paribahan {
+    color: #1dd100;
+  }
+  .end-to-end-travel-with-container {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 371px);
+    line-height: 86px;
+    font-weight: 800;
+    display: inline-block;
+    width: 742px;
+  }
+  .yes-you-can {
+    position: absolute;
+    top: 188px;
+    left: 25px;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: Inter;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 691px;
+  }
+  .end-to-end-travel-with-p-parib-parent,
+  .frame-parent {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 371px);
+    width: 742px;
+    height: 248px;
+    font-size: 64px;
+    color: #fff;
+  }
+  .frame-parent {
+    top: 204px;
+    height: 345px;
+    text-align: center;
+    font-size: 20px;
+    color: #030712;
+    font-family: Raleway;
+  }
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 24px;
+    background-color: #fff;
+    border-bottom: 3px solid #1dd100;
+    box-sizing: border-box;
+    width: 308px;
+    height: 138px;
+  }
+  .people-icon {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    width: 64px;
+    height: 64px;
+  }
+  .k,
+  .registered-users {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .registered-users {
+    top: 52px;
+    font-size: 18px;
+    color: rgba(3, 7, 18, 0.6);
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 143px;
+  }
+  .k-parent,
+  .people-parent {
+    position: absolute;
+    top: 0;
+    left: 80px;
+    width: 143px;
+    height: 74px;
+  }
+  .people-parent {
+    top: 32px;
+    left: 32px;
+    width: 223px;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 308px;
+    height: 138px;
+    text-align: center;
+  }
+  .tickets-sold {
+    position: absolute;
+    top: 52px;
+    left: 0;
+    font-size: 18px;
+    color: rgba(3, 7, 18, 0.6);
+  }
+  .lacks-parent {
+    position: absolute;
+    top: 0;
+    left: 80px;
+    width: 149px;
+    height: 74px;
+  }
+  .rectangle-group,
+  .ticket-cupon-parent {
+    position: absolute;
+    top: 32px;
+    left: 32px;
+    width: 229px;
+    height: 74px;
+  }
+  .rectangle-group {
+    top: 0;
+    left: 331px;
+    width: 308px;
+    height: 138px;
+  }
+  .k-group,
+  .stoppage-parent {
+    position: absolute;
+    top: 0;
+    left: 80px;
+    width: 131px;
+    height: 74px;
+  }
+  .stoppage-parent {
+    top: 32px;
+    left: 32px;
+    width: 211px;
+  }
+  .group-parent,
+  .rectangle-container {
+    position: absolute;
+    top: 0;
+    left: 663px;
+    width: 308px;
+    height: 138px;
+  }
+  .group-parent {
+    top: 615px;
+    left: 235px;
+    width: 971px;
+    font-size: 36px;
+    color: #030712;
+  }
+  .best-offers-for,
+  .see-all-offers-wrapper {
+    position: absolute;
+    top: 873px;
+    left: calc(50% - 173px);
+    font-size: 40px;
+    font-family: Raleway;
+    color: #030712;
+    text-align: center;
+  }
+  .see-all-offers-wrapper {
+    top: 1250px;
+    left: calc(50% - 94px);
+    border-radius: 12px;
+    border: 1px solid #1dd100;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 21px 30px;
+    font-size: 20px;
+    color: #1dd100;
+  }
+  .landing-page-design-item {
+    position: absolute;
+    top: 1435px;
+    left: 0;
+    border-radius: 88px 88px 0 0;
+    background-color: #f7f8f8;
+    border-top: 2px solid #1dd100;
+    box-sizing: border-box;
+    width: 1440px;
+    height: 2208px;
+  }
+  .yes-you-can1 {
+    position: absolute;
+    top: 71px;
+    left: 216px;
+    line-height: 30px;
+    font-family: Inter;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 736px;
+  }
+  .ph-paribahan {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 133px);
+    font-size: 40px;
+    color: #030712;
+  }
+  .group-child1,
+  .rectangle-div {
+    position: absolute;
+    top: 178.8px;
+    left: 0;
+    border-radius: 24px;
+    background-color: #fff;
+    width: 1170px;
+    height: 418px;
+  }
+  .group-child1 {
+    top: 306.8px;
+    left: 32px;
+    background-color: #f7f8f8;
+    width: 808px;
+    height: 258px;
+  }
+  .route {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 600;
+  }
+  .dhaka-sylhet {
+    left: 619px;
+    font-weight: 600;
+    color: #030712;
+  }
+  .dhaka-sylhet,
+  .pm,
+  .route-parent {
+    position: absolute;
+    top: 0;
+  }
+  .route-parent {
+    left: 0;
+    width: 744px;
+    height: 21px;
+  }
+  .pm {
+    left: 675px;
+    font-weight: 600;
+    color: #030712;
+  }
+  .departure-time-parent {
+    position: absolute;
+    top: 69px;
+    left: 0;
+    width: 744px;
+    height: 21px;
+  }
+  .group-child2,
+  .line-div {
+    position: absolute;
+    top: 44.5px;
+    left: -0.5px;
+    border-top: 1px dashed rgba(3, 7, 18, 0.2);
+    box-sizing: border-box;
+    width: 745px;
+    height: 1px;
+  }
+  .group-child2 {
+    top: 113.5px;
+  }
+  .group-child3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 12px;
+    background-color: rgba(3, 7, 18, 0.05);
+    width: 232px;
+    height: 56px;
+  }
+  .boarding-point- {
+    position: absolute;
+    top: 19px;
+    left: 16px;
+    font-weight: 500;
+  }
+  .rectangle-parent1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 232px;
+    height: 56px;
+  }
+  .dropping-point- {
+    position: absolute;
+    top: 19px;
+    left: 24px;
+    font-weight: 500;
+  }
+  .rectangle-parent2 {
+    position: absolute;
+    top: 0;
+    left: 256px;
+    width: 232px;
+    height: 56px;
+  }
+  .est-time- {
+    position: absolute;
+    top: 19px;
+    left: 44px;
+    font-weight: 500;
+  }
+  .rectangle-parent3 {
+    position: absolute;
+    top: 0;
+    left: 512px;
+    width: 232px;
+    height: 56px;
+  }
+  .group-container,
+  .group-div {
+    position: absolute;
+    width: 744px;
+  }
+  .group-div {
+    top: 138px;
+    left: 0;
+    height: 56px;
+    font-size: 16px;
+    color: rgba(3, 7, 18, 0.8);
+    font-family: Inter;
+  }
+  .group-container {
+    top: 338.8px;
+    left: 64px;
+    height: 194px;
+    text-align: left;
+  }
+  .info-devider-icon {
+    position: absolute;
+    top: 178.8px;
+    left: 872px;
+    width: 80px;
+    height: 418.2px;
+  }
+  .coach-009-web-ac-business {
+    position: absolute;
+    top: 50px;
+    left: 2px;
+  }
+  .greenline-paribahan {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 156px);
+    font-size: 32px;
+    font-family: Raleway;
+    color: #030712;
+    text-align: center;
+  }
+  .bus-logo-icon,
+  .coach-009-web-ac-business-parent {
+    position: absolute;
+    top: 0;
+    left: 82.6px;
+    width: 312px;
+    height: 72px;
+  }
+  .bus-logo-icon {
+    height: 66.67%;
+    width: 17.38%;
+    top: 16.67%;
+    right: 82.62%;
+    bottom: 16.67%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .group-child6,
+  .group-parent2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 394.6px;
+    height: 72px;
+  }
+  .group-child6 {
+    border-radius: 12px;
+    background-color: rgba(29, 209, 0, 0.15);
+    width: 180px;
+    height: 56px;
+  }
+  .seats-left {
+    position: absolute;
+    top: 3px;
+    left: 36px;
+    font-weight: 500;
+  }
+  .seat-green-icon,
+  .seats-left-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 28px;
+    height: 28px;
+  }
+  .seats-left-parent {
+    top: 14px;
+    left: 17px;
+    width: 146px;
+  }
+  .rectangle-parent4 {
+    position: absolute;
+    top: 8px;
+    left: 628px;
+    width: 180px;
+    height: 56px;
+    color: #1dd100;
+  }
+  .group-parent1 {
+    position: absolute;
+    top: 210.8px;
+    left: 32px;
+    width: 808px;
+    height: 72px;
+    text-align: left;
+    font-family: Inter;
+  }
+  .taka {
+    margin: 0;
+  }
+  .per-seat {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 600;
+    color: rgba(3, 7, 18, 0.6);
+  }
+  .taka-per-seat-container {
+    position: absolute;
+    top: 72px;
+    left: calc(50% - 66.5px);
+    line-height: 40px;
+  }
+  .fare-icon {
+    position: absolute;
+    top: 0;
+    left: 43px;
+    width: 48px;
+    height: 48px;
+  }
+  .taka-per-seat-parent {
+    position: absolute;
+    top: 310.8px;
+    left: calc(50% + 389px);
+    width: 133px;
+    height: 155px;
+    font-size: 32px;
+    color: #030712;
+  }
+  .yes-you-can-run-unit-tests-an-parent {
+    position: absolute;
+    top: 1555px;
+    left: 135px;
+    width: 1170px;
+    height: 597px;
+    text-align: center;
+    color: rgba(3, 7, 18, 0.6);
+    font-family: Raleway;
+  }
+  .landing-page-design-inner {
+    position: absolute;
+    top: 3234px;
+    left: 135px;
+    border-radius: 24px;
+    background-color: #fff;
+    width: 1170px;
+    height: 1056px;
+  }
+  .landing-page-design-child1 {
+    position: absolute;
+    top: 2209px;
+    left: 807px;
+    border-right: 2px dashed rgba(3, 7, 18, 0.3);
+    box-sizing: border-box;
+    width: 2px;
+    height: 994px;
+  }
+  .select-your-seat,
+  .select-your-seat1 {
+    position: absolute;
+    top: 2210px;
+    left: calc(50% - 553px);
+    font-size: 24px;
+    font-weight: 600;
+    font-family: Raleway;
+    color: #030712;
+    text-align: center;
+  }
+  .select-your-seat1 {
+    left: calc(50% + 120px);
+  }
+  .landing-page-design-child2,
+  .landing-page-design-child3,
+  .landing-page-design-child4 {
+    position: absolute;
+    top: 2261.5px;
+    left: 166.5px;
+    border-top: 1px dashed rgba(3, 7, 18, 0.2);
+    box-sizing: border-box;
+    width: 610px;
+    height: 1px;
+  }
+  .landing-page-design-child3,
+  .landing-page-design-child4 {
+    left: 839.5px;
+    width: 410px;
+  }
+  .landing-page-design-child4 {
+    top: 2321.5px;
+    left: 166.5px;
+    width: 610px;
+  }
+  .available-parent,
+  .selected-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 114px;
+    height: 28px;
+  }
+  .selected-parent {
+    left: 497px;
+    width: 112px;
+    color: #1dd100;
+  }
+  .group-child7,
+  .group-parent3 {
+    position: absolute;
+    top: 2278px;
+    left: 167px;
+    width: 609px;
+    height: 28px;
+  }
+  .group-child7 {
+    top: 0;
+    left: 0;
+    border-radius: 12px;
+    background-color: rgba(3, 7, 18, 0.1);
+    width: 110px;
+    height: 56px;
+  }
+  .wheel-icon {
+    position: absolute;
+    top: 12px;
+    left: 39px;
+    width: 32px;
+    height: 32px;
+  }
+  .rectangle-parent5 {
+    position: absolute;
+    top: 2346px;
+    left: 666px;
+    width: 110px;
+    height: 56px;
+  }
+  .a,
+  .b,
+  .c,
+  .d,
+  .e,
+  .f,
+  .g,
+  .h,
+  .i,
+  .j {
+    position: absolute;
+    top: 2443px;
+    left: 167px;
+    font-weight: 500;
+  }
+  .b,
+  .c,
+  .d,
+  .e,
+  .f,
+  .g,
+  .h,
+  .i,
+  .j {
+    top: 2523px;
+  }
+  .c,
+  .d,
+  .e,
+  .f,
+  .g,
+  .h,
+  .i,
+  .j {
+    top: 2603px;
+  }
+  .d,
+  .e,
+  .f,
+  .g,
+  .h,
+  .i,
+  .j {
+    top: 2683px;
+  }
+  .e,
+  .f,
+  .g,
+  .h,
+  .i,
+  .j {
+    top: 2763px;
+  }
+  .f,
+  .g,
+  .h,
+  .i,
+  .j {
+    top: 2843px;
+  }
+  .g,
+  .h,
+  .i,
+  .j {
+    top: 2923px;
+  }
+  .h,
+  .i,
+  .j {
+    top: 3003px;
+  }
+  .i,
+  .j {
+    top: 3083px;
+  }
+  .j {
+    top: 3163px;
+  }
+  .group-child8 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 12px;
+    background-color: #f7f8f8;
+    width: 110px;
+    height: 56px;
+  }
+  .a2 {
+    position: absolute;
+    top: 17px;
+    left: 45px;
+    font-weight: 500;
+  }
+  .rectangle-parent6 {
+    position: absolute;
+    top: 2426px;
+    left: 348px;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent7,
+  .rectangle-parent8,
+  .rectangle-parent9 {
+    position: absolute;
+    top: 2506px;
+    left: 348px;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent8,
+  .rectangle-parent9 {
+    top: 2586px;
+  }
+  .rectangle-parent9 {
+    top: 2666px;
+  }
+  .group-child14,
+  .rectangle-parent10,
+  .rectangle-parent11 {
+    position: absolute;
+    top: 2746px;
+    left: 348px;
+    width: 110px;
+    height: 56px;
+  }
+  .group-child14,
+  .rectangle-parent11 {
+    top: 2826px;
+  }
+  .group-child14 {
+    top: 0;
+    left: 0;
+    border-radius: 12px;
+    background-color: #1dd100;
+    border: 1px solid #1dd100;
+    box-sizing: border-box;
+  }
+  .g2 {
+    position: absolute;
+    top: 17px;
+    left: 43px;
+    font-weight: 500;
+  }
+  .rectangle-parent12,
+  .rectangle-parent13 {
+    position: absolute;
+    left: 348px;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent12 {
+    top: 2906px;
+    color: #fff;
+  }
+  .rectangle-parent13 {
+    top: 2986px;
+  }
+  .i2 {
+    position: absolute;
+    top: 17px;
+    left: 48px;
+    font-weight: 500;
+  }
+  .rectangle-parent14,
+  .rectangle-parent15 {
+    position: absolute;
+    top: 3066px;
+    left: 348px;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent15 {
+    top: 3146px;
+  }
+  .rectangle-parent16,
+  .rectangle-parent17,
+  .rectangle-parent18 {
+    position: absolute;
+    top: 2426px;
+    left: 206px;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent17,
+  .rectangle-parent18 {
+    top: 2506px;
+  }
+  .rectangle-parent18 {
+    top: 2586px;
+  }
+  .rectangle-parent19 {
+    top: 2666px;
+  }
+  .rectangle-parent19,
+  .rectangle-parent20,
+  .rectangle-parent21 {
+    position: absolute;
+    left: 206px;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent20 {
+    top: 2746px;
+    color: #fff;
+  }
+  .rectangle-parent21 {
+    top: 2826px;
+  }
+  .rectangle-parent22,
+  .rectangle-parent23,
+  .rectangle-parent24 {
+    position: absolute;
+    top: 2906px;
+    left: 206px;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent23,
+  .rectangle-parent24 {
+    top: 2986px;
+  }
+  .rectangle-parent24 {
+    top: 3066px;
+  }
+  .rectangle-parent25,
+  .rectangle-parent26,
+  .rectangle-parent27 {
+    position: absolute;
+    top: 3146px;
+    left: 206px;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent26,
+  .rectangle-parent27 {
+    top: 0;
+    left: 142px;
+  }
+  .rectangle-parent27 {
+    top: 80px;
+  }
+  .rectangle-parent28,
+  .rectangle-parent29,
+  .rectangle-parent30 {
+    position: absolute;
+    top: 160px;
+    left: 142px;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent29,
+  .rectangle-parent30 {
+    top: 240px;
+  }
+  .rectangle-parent30 {
+    top: 320px;
+  }
+  .rectangle-parent31,
+  .rectangle-parent32,
+  .rectangle-parent33 {
+    position: absolute;
+    top: 400px;
+    left: 142px;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent32,
+  .rectangle-parent33 {
+    top: 480px;
+  }
+  .rectangle-parent33 {
+    top: 560px;
+  }
+  .i4 {
+    position: absolute;
+    top: 17px;
+    left: 47px;
+    font-weight: 500;
+  }
+  .rectangle-parent34 {
+    position: absolute;
+    top: 640px;
+    left: 142px;
+    width: 110px;
+    height: 56px;
+  }
+  .j4 {
+    position: absolute;
+    top: 17px;
+    left: 44px;
+    font-weight: 500;
+  }
+  .rectangle-parent35,
+  .rectangle-parent36,
+  .rectangle-parent37 {
+    position: absolute;
+    top: 720px;
+    left: 142px;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent36,
+  .rectangle-parent37 {
+    top: 0;
+    left: 0;
+  }
+  .rectangle-parent37 {
+    top: 80px;
+  }
+  .rectangle-parent38 {
+    top: 160px;
+  }
+  .rectangle-parent38,
+  .rectangle-parent39,
+  .rectangle-parent40 {
+    position: absolute;
+    left: 0;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent39 {
+    top: 240px;
+    color: #fff;
+  }
+  .rectangle-parent40 {
+    top: 320px;
+  }
+  .rectangle-parent41,
+  .rectangle-parent42,
+  .rectangle-parent43 {
+    position: absolute;
+    top: 400px;
+    left: 0;
+    width: 110px;
+    height: 56px;
+  }
+  .rectangle-parent42,
+  .rectangle-parent43 {
+    top: 480px;
+  }
+  .rectangle-parent43 {
+    top: 560px;
+  }
+  .group-parent4,
+  .rectangle-parent44,
+  .rectangle-parent45 {
+    position: absolute;
+    top: 640px;
+    left: 0;
+    width: 110px;
+    height: 56px;
+  }
+  .group-parent4,
+  .rectangle-parent45 {
+    top: 720px;
+  }
+  .group-parent4 {
+    top: 2426px;
+    left: 524px;
+    width: 252px;
+    height: 776px;
+  }
+  .cancellation-policy,
+  .terms-and-conditions {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-decoration: underline;
+  }
+  .cancellation-policy {
+    left: 208px;
+  }
+  .group-child48,
+  .group-wrapper,
+  .terms-and-conditions-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 351px;
+    height: 19px;
+  }
+  .group-child48,
+  .group-wrapper {
+    top: 817px;
+    left: 41px;
+  }
+  .group-child48 {
+    top: 0;
+    left: 0;
+    border-radius: 12px;
+    background-color: #f7f8f8;
+    width: 433px;
+    height: 335px;
+  }
+  .div,
+  .economoy {
+    position: absolute;
+    top: 0;
+    left: 145px;
+  }
+  .div {
+    left: 338px;
+  }
+  .c2-group,
+  .c2-parent {
+    position: absolute;
+    top: 83px;
+    left: 32px;
+    width: 368px;
+    height: 19px;
+  }
+  .c2-group {
+    top: 118px;
+  }
+  .group-child49,
+  .group-child50 {
+    position: absolute;
+    top: 66.5px;
+    left: 31.5px;
+    border-top: 1px dashed rgba(3, 7, 18, 0.2);
+    box-sizing: border-box;
+    width: 370px;
+    height: 1px;
+  }
+  .group-child50 {
+    top: 152.5px;
+    border-top: 1px solid rgba(3, 7, 18, 0.2);
+  }
+  .class,
+  .price,
+  .seat {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 500;
+  }
+  .class,
+  .price {
+    left: 145px;
+  }
+  .price {
+    left: 330px;
+  }
+  .seat-parent {
+    position: absolute;
+    top: 32px;
+    left: 32px;
+    width: 369px;
+    height: 19px;
+    color: #030712;
+  }
+  .group-child51 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 12px;
+    border: 1px solid rgba(3, 7, 18, 0.1);
+    box-sizing: border-box;
+    width: 433px;
+    height: 64px;
+  }
+  .enter-your-name {
+    position: absolute;
+    top: 23px;
+    left: 24px;
+  }
+  .rectangle-parent46 {
+    position: absolute;
+    top: 35px;
+    left: 0;
+    width: 433px;
+    height: 64px;
+  }
+  .passenger-name {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 600;
+    color: #030712;
+  }
+  .group-parent6,
+  .group-parent7,
+  .group-parent8 {
+    position: absolute;
+    top: 359px;
+    left: 0;
+    width: 433px;
+    height: 99px;
+    color: rgba(3, 7, 18, 0.4);
+  }
+  .group-parent7,
+  .group-parent8 {
+    top: 482px;
+  }
+  .group-parent8 {
+    top: 605px;
+  }
+  .bdt-1100 {
+    position: absolute;
+    top: 0;
+    left: 297px;
+    font-weight: 500;
+  }
+  .total-price-parent {
+    position: absolute;
+    top: 169px;
+    left: 32px;
+    width: 369px;
+    height: 19px;
+    color: #030712;
+  }
+  .grand-total-parent,
+  .group-child54 {
+    position: absolute;
+    left: 0;
+    width: 369px;
+  }
+  .group-child54 {
+    top: 0;
+    border-radius: 12px;
+    background-color: #fff;
+    height: 56px;
+  }
+  .grand-total-parent {
+    top: 80px;
+    height: 19px;
+  }
+  .have-any-copupon {
+    position: absolute;
+    top: 20px;
+    left: 22px;
+    font-size: 14px;
+    color: rgba(3, 7, 18, 0.4);
+  }
+  .group-child55 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 8px;
+    background-color: #1dd100;
+    width: 80px;
+    height: 40px;
+  }
+  .apply {
+    position: absolute;
+    top: 11px;
+    left: 18px;
+    font-weight: 600;
+  }
+  .rectangle-parent50 {
+    position: absolute;
+    top: 8px;
+    left: 281px;
+    width: 80px;
+    height: 40px;
+    color: #fff;
+  }
+  .rectangle-parent49 {
+    position: absolute;
+    top: 204px;
+    left: 32px;
+    width: 369px;
+    height: 99px;
+    color: #030712;
+  }
+  .next {
+    position: relative;
+    font-weight: 800;
+  }
+  .next-wrapper {
+    position: absolute;
+    top: 728px;
+    left: calc(50% - 216.5px);
+    border-radius: 16px;
+    background-color: #1dd100;
+    width: 433px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 21px 30px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+    font-family: Raleway;
+  }
+  .group-parent5 {
+    position: absolute;
+    top: 2286px;
+    left: 840px;
+    width: 433px;
+    height: 836px;
+    font-size: 16px;
+    color: rgba(3, 7, 18, 0.6);
+  }
+  .group-child56 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 720px);
+    background-color: #030712;
+    width: 1440px;
+    height: 457px;
+  }
+  .privacy-policy,
+  .return-refund {
+    position: absolute;
+    top: 0;
+    left: 170px;
+    font-weight: 500;
+  }
+  .privacy-policy {
+    left: 372px;
+  }
+  .terms-condition-parent {
+    position: absolute;
+    top: 0;
+    left: 691px;
+    width: 479px;
+    height: 19px;
+  }
+  .all-rights-reserved {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .group-parent10 {
+    position: absolute;
+    top: 198px;
+    left: 0;
+    width: 1170px;
+    height: 19px;
+  }
+  .download-our-app,
+  .p-ticket1 {
+    position: absolute;
+    top: 0;
+    left: 995px;
+    font-weight: 600;
+  }
+  .p-ticket1 {
+    left: 0;
+    font-weight: 800;
+  }
+  .p-ticket-group,
+  .p-ticket-is-a {
+    position: absolute;
+    left: 0;
+    width: 374px;
+  }
+  .p-ticket-is-a {
+    top: 58px;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: Inter;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: left;
+    display: flex;
+    align-items: center;
+  }
+  .p-ticket-group {
+    top: 0;
+    height: 118px;
+    font-size: 36px;
+  }
+  .group-child57 {
+    position: absolute;
+    height: 47.46%;
+    width: 16.15%;
+    top: 36.44%;
+    right: 0;
+    bottom: 16.1%;
+    left: 83.85%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .download-our-app-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1170px;
+    height: 118px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Raleway;
+  }
+  .group-child58 {
+    position: absolute;
+    top: 165.3px;
+    left: -0.7px;
+    border-top: 1.5px dashed rgba(255, 255, 255, 0.3);
+    box-sizing: border-box;
+    width: 1171.5px;
+    height: 1.5px;
+  }
+  .group-parent9 {
+    position: absolute;
+    top: 120px;
+    left: 135px;
+    width: 1170px;
+    height: 217px;
+  }
+  .rectangle-parent51 {
+    position: absolute;
+    top: 3354px;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 457px;
+    font-size: 16px;
+    color: #fff;
+  }
+  .group-child59 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 573px;
+    height: 220px;
+  }
+  .off1 {
+    font-weight: 900;
+  }
+  .on-your-next {
+    font-weight: 600;
+  }
+  .on-your-next-purchase {
+    margin: 0;
+    font-size: 20px;
+  }
+  .use-by-january {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(3, 7, 18, 0.5);
+  }
+  .off-on-your-container {
+    position: absolute;
+    top: 52px;
+    left: 51px;
+    line-height: 36px;
+  }
+  .coupon-code {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(3, 7, 18, 0.4);
+  }
+  .new15-coupon-code-container {
+    position: absolute;
+    top: 66px;
+    left: 392px;
+    line-height: 180%;
+    text-align: center;
+    font-size: 32px;
+    color: #030712;
+    font-family: Raleway;
+  }
+  .group-parent11,
+  .landing-page-design-child5 {
+    position: absolute;
+    top: 968px;
+    width: 573px;
+    height: 220px;
+  }
+  .group-parent11 {
+    left: 135px;
+    font-size: 40px;
+    color: rgba(3, 7, 18, 0.8);
+  }
+  .landing-page-design-child5 {
+    left: 732px;
+    border-radius: 24px;
+    background-color: #f78c9c;
+  }
+  .off-on-your-container1 {
+    position: absolute;
+    top: 1020px;
+    left: 783px;
+    line-height: 36px;
+    font-size: 40px;
+    color: rgba(3, 7, 18, 0.8);
+  }
+  .couple-20-coupon-container {
+    position: absolute;
+    top: 1034px;
+    left: 1110px;
+    line-height: 180%;
+    text-align: center;
+    font-size: 32px;
+    color: #030712;
+    font-family: Raleway;
+  }
+  .cupon-devider-icon {
+    position: absolute;
+    top: 968px;
+    left: 1042px;
+    width: 48px;
+    height: 220px;
+  }
+  .group-child60 {
+    position: absolute;
+    border-radius: 5px;
+    background-color: #1dd100;
+    height: 13px;
+  }
+  .group-child60,
+  .rectangle-wrapper {
+    top: 0;
+    left: 0;
+    width: 23px;
+  }
+  .b5,
+  .group-parent12,
+  .rectangle-wrapper {
+    position: absolute;
+    height: 13px;
+  }
+  .b5 {
+    top: calc(50% - 6.5px);
+    left: calc(50% - 7.5px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 11px;
+  }
+  .group-parent12 {
+    top: 2320px;
+    left: 910px;
+    width: 23px;
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+  }
+  .landing-page-design {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 3811px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 18px;
+    color: rgba(3, 7, 18, 0.5);
+    font-family: Inter;
+  }
+  
